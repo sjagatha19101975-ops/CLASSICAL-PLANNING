@@ -1,7 +1,7 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
 
-### Name : THARUN DANIEL Y
-### Reg. No : 212224050054
+### Name : SURYA.S
+### Reg. No : 212224060270
 
 ## Algorithm or Steps Involved:
 <ol>
